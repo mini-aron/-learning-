@@ -10,3 +10,11 @@ if(gender === 'M'&& (name2 == 'Mike'|| isAdult)){
 }else{
     console.log('돌아가.');
 }
+for(let i = 0;i<10;i++){
+    console.log('꾸엥');
+}
+let j = 0;
+do{
+    j++;
+}while(j<10)
+    
