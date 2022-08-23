@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+.bar{
+    margin: 0;
+    font-family: 'DynaPuff', cursive;
+    background-color: #F1ECE8;
+    width: 100%;
+    height: 110px;
+    color: #4D9DAB;
+    font-size: 100px;
+    line-height: 90%;
+}
