@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 10000px;
+}
+
+.maindiv{
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+}
+
+.maindiv div{
+    position: relative;
+    width: 200px;
+    left: 44%;
+}
+
+.maindiv div img{
+    
+    height: 50px;
+    
+}
+
+.scrollNav{
+    margin: 0;
+    position: sticky;
+    width: 100%;
+    height: 50px;
+    background-color: #61A0FF;
+    top: 0;
+    box-sizing: border-box;
+}
+
+.nav_con{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.nav_con ul{
+    list-style: none;
+    float: left;
+    padding-left: 0;
+    
+}
+
+.nav_con li a{
+    margin: 0;
+    text-decoration: none;
+    color: #fff;
+}
+.nav_con li{
+    float: left;
+}
